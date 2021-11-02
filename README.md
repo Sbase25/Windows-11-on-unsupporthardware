@@ -1,2 +1,2 @@
-# Windows-11-on-unsupporthardware
-Win11 on unsupported hardware
+I'm not responsible if things go wrong that's your responsibility.
+Read this
